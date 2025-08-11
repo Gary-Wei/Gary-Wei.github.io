@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Richardson, TX</p>
     <p><a href="mailto:Jiarui.Wei@utdallas.edu">Jiarui.Wei@utdallas.edu</a></p>
+    <p><a href="/assets/pdf/Gary-Wei-CV.pdf">CV</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
