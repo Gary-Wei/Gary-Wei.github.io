@@ -36,7 +36,7 @@ Hello! My name is Jiarui (Gary) Wei, and I am a Ph.D. candidate in Operations Ma
 
 [//]: # (I will be on the 2025–2026 academic job market. My research leverages Generative AI and game-theoretic models to enhance managerial decision-making. I pursue two main research streams. The first focuses on probabilistic goods. In this stream, my job market paper examines consumer dynamic responses to the limited-time product sequences, while my Marketing Science paper investigates optimal pricing and probability allocations.)
 
-# About Me
+<h2 id="about me" style="margin-top: 2rem;">About Me</h2>
 
 My research addresses the critical sustainability challenges that arise from technology-driven operations, specifically focusing on the massive energy demands of data centers spurred by the growth of AI, and the complex fulfillment trade-offs on e-commerce platforms. I use optimization modeling and large-scale empirical data to develop practical solutions that help manage the operational efficiency and environmental impacts of these AI-powered systems, offering guidance for stakeholders ranging from microgrid operators to platform sellers.
 
@@ -44,7 +44,7 @@ My research addresses the critical sustainability challenges that arise from tec
 
 ***
 
-# Research Interests
+<h2 id="research" style="margin-top: 2rem;">Research Interest</h2>
 * Sustainable and Socially Responsible Operations
 * Energy Management
 * Retail Operations
@@ -57,8 +57,6 @@ My research addresses the critical sustainability challenges that arise from tec
 
 ***
 
-# Education
-* **Ph.D. in Operations Management**, [The University of Texas at Dallas], *2021 - 2026 (expected)*
-* **B.S. in Systems Engineering and Engineering Management**, [The Chinese University of Hong Kong], *2016 - 2020*
+<h2 id="teaching" style="margin-top: 2rem;">Teaching</h2>
 
 
