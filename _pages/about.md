@@ -9,8 +9,8 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>800 Campbell Rd</p>
-    <p>Richardson, TX 75080</p>
+    <p>Richardson, TX</p>
+    <p><a href="mailto:Jiarui.Wei@utdallas.edu">Jiarui.Wei@utdallas.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
