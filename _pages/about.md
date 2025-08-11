@@ -50,7 +50,6 @@ My research addresses the critical sustainability challenges that arise from tec
 * Energy Management
 * Retail Operations
 
-[//]: # (Working Papers Wei, G. (2025). "The Title of Your Awesome Job Market Paper." Job Market Paper.  Author, A. A., & Wei, G.(2024). "Title of Your Second Working Paper.")
 
 
 
