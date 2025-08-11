@@ -8,7 +8,7 @@ profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>Richardson, TX</p>
     <p><a href="mailto:Jiarui.Wei@utdallas.edu">Jiarui.Wei@utdallas.edu</a></p>
     <p><a href="/assets/pdf/Gary-Wei-CV.pdf">CV</a></p>
