@@ -42,23 +42,9 @@ My name is Jiarui (Gary) Wei, and I am a Ph.D. candidate in Operations Managemen
 
 My research addresses the critical sustainability challenges that arise from technology-driven operations, specifically focusing on the massive energy demands of data centers spurred by the growth of AI, and the complex fulfillment trade-offs on e-commerce platforms. I use optimization modeling and large-scale empirical data to develop practical solutions that help manage the operational efficiency and environmental impacts of these AI-powered systems, offering guidance for stakeholders ranging from microgrid operators to platform sellers.
 
-Prior to UTD, I worked as a junior research assistant at The Chinese University of Hong Kong Business School, where I was fortunate to be supervised by Prof. <p><a href="https://www.bschool.cuhk.edu.hk/staff/gong-xiting">Xiting Gong</a></p>. I obtained my B.Eng. in Systems Engineering and Engineering Management at CUHK as well.
+Prior to UTD, I worked as a junior research assistant at The Chinese University of Hong Kong Business School, where I was fortunate to be supervised by Prof. <a href="https://www.bschool.cuhk.edu.hk/staff/gong-xiting">Xiting Gong</a>. I obtained my B.Eng. in Systems Engineering and Engineering Management at CUHK as well.
 
 [//]: # (The second stream focuses on behavioral industrial organization, particularly in service marketing. One working paper designs dynamic contracts for service providers when consumers are influenced by availability bias. Another paper optimizes the rollover policy for unused subscription quota when forgetful customers are served.)
 
 ***
-
-<h2 id="research" style="margin-top: 2rem;">Research Interest</h2>
-* Sustainable and Socially Responsible Operations
-* Energy Management
-* Retail Operations
-
-
-
-
-
-***
-
-<h2 id="teaching" style="margin-top: 2rem;">Teaching</h2>
-
 
