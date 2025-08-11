@@ -58,7 +58,7 @@ My research addresses the critical sustainability challenges that arise from tec
 ***
 
 # Education
-* **Ph.D. in Operations Management**, [The University of Texas at Dallas], *2026 (expected)*
-* **B.S. in Systems Engineering and Engineering Management**, [The Chinese University of Hong Kong], *2020*
+* **Ph.D. in Operations Management**, [The University of Texas at Dallas], *2021 - 2026 (expected)*
+* **B.S. in Systems Engineering and Engineering Management**, [The Chinese University of Hong Kong], *2016 - 2020*
 
 
