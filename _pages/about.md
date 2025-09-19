@@ -40,11 +40,12 @@ Hello! Welcome to my page!
 <h2 id="about me" style="margin-top: 2rem;">About Me</h2>
 My name is Jiarui (Gary) Wei, and I am a fifth-year Ph.D. candidate in Operations Management at the The University of Texas at Dallas. I am fortunate to be advised by Professor <a href="https://jindal.utdallas.edu/faculty/metin-cakanyildirim/">Metin Cakanyildirim</a>.
 
-My research focuses on sustainable operations, energy economics and platform operations. Specifically, my work addresses the critical sustainability challenges that arise from technology-driven operations, specifically focusing on the massive energy demands of data centers spurred by the growth of AI, and the complex fulfillment trade-offs on e-commerce platforms. I use analytical modeling, empirical, and machine learning techniques to develop practical solutions that help manage the operational efficiency and environmental impacts of these AI-powered systems, offering guidance for stakeholders ranging from microgrid operators to online platform sellers.
+My research focuses on sustainable operations, energy management, and platform operations. Specifically, my work addresses the critical sustainability challenges that arise from technology-driven operations, specifically focusing on the massive energy demands of data centers spurred by the growth of AI, and the complex fulfillment trade-offs on e-commerce platforms. I use analytical modeling, empirical, and machine learning techniques to develop practical solutions that help manage the operational efficiency and environmental impacts of these AI-powered systems, offering guidance for stakeholders ranging from microgrid operators to online platform sellers.
 
 Prior to UTD, I worked as a junior research assistant at The Chinese University of Hong Kong (CUHK) Business School, where I was fortunate to be supervised by Prof. <a href="https://www.bschool.cuhk.edu.hk/staff/gong-xiting">Xiting Gong</a>. I obtained my B.Eng. in Systems Engineering and Engineering Management at CUHK as well.
 
-[//]: # (The second stream focuses on behavioral industrial organization, particularly in service marketing. One working paper designs dynamic contracts for service providers when consumers are influenced by availability bias. Another paper optimizes the rollover policy for unused subscription quota when forgetful customers are served.)
+<h2 id="Research" style="margin-top: 2rem;">Research</h2>
+<sup>For more details, please visit <a href="https://gary-wei.github.io/research">here</a>.</sup>
 
-***
-
+- Dismissal of Demand Dependence Disappoints and Deceives: The Case of Microgrid Generation and Storage Investments. *Submitted*
+- The Price of Choice: Causal Effects of Retail Electricity Contracts on Consumer Bills: Double Machine Learning from Individual Consumption
