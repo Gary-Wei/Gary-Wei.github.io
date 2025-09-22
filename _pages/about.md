@@ -45,7 +45,6 @@ My research focuses on sustainable operations, energy management, and platform o
 Prior to UTD, I worked as a junior research assistant at The Chinese University of Hong Kong (CUHK) Business School, where I was fortunate to be supervised by Prof. <a href="https://www.bschool.cuhk.edu.hk/staff/gong-xiting">Xiting Gong</a>. I obtained my B.Eng. in Systems Engineering and Engineering Management at CUHK as well.
 
 <h2 id="Research" style="margin-top: 2rem;">Research</h2>
-[//]: #(<sup>For more details, please visit <a href="https://gary-wei.github.io/research">here</a>.</sup>)
 
 - <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4048395">Dismissal of Demand Dependence Disappoints and Deceives: The Case of Microgrid Generation and Storage Investments</a>, with F. F. Mamaghani and M. Cakanyildirim.  *Submitted*
 - The Price of Choice: Causal Effects of Retail Electricity Contracts on Consumer Bills: Double Machine Learning from Individual Consumption, with F. F. Mamaghani and M. Cakanyildirim. *Work in Progress*
@@ -53,9 +52,11 @@ Prior to UTD, I worked as a junior research assistant at The Chinese University 
 - Blessing or Curse? An Investigation of Free-Return Services in E-Commerce, with A. S. Simsek, O. Ozer. *Work in Progress*
 
 <h2 id="Teaching" style="margin-top: 2rem;">Teaching</h2>
-<h3 id="Research" style="margin-top: 2rem;">Instructor</h2>
+<h3 id="Research" style="margin-top: 2rem;">Instructor</h3>
+
 - Managerial Methods in Decision Making Under Uncertainty (Undergraduate Core), UT Dallas, Spring 2025, Enrollment: 68, Evaluation: 4.81, Response Rate: 37 out of 68.
-<h3 id="Research" style="margin-top: 2rem;">Teaching Assistant</h2>
+<h3 id="Research" style="margin-top: 2rem;">Teaching Assistant</h3>
+
 - Operations Management
 - Spreadsheet Modeling and Analytics
 - Global Logistics and Transportation
@@ -67,6 +68,7 @@ Prior to UTD, I worked as a junior research assistant at The Chinese University 
 - Lean and Six Sigma Processes
 
 <h2 id="Updates" style="margin-top: 2rem;">Updates</h2>
+
 - **Oct 2025** I will present "Dismissal of Demand Dependence Disappoints and Deceives: The Case of Microgrid Generation and Storage Investments" at the 2025 INFORMS Annual Conference, Atlanta, Georgia. (**Monday, October 27, 11:00 a.m. to 12:15 p.m., Building B, Level 2, B206**)
 
 
