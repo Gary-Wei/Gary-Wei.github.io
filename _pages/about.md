@@ -55,7 +55,7 @@ Prior to UTD, I worked as a junior research assistant at The Chinese University 
 <h3 id="Research" style="margin-top: 2rem;">Instructor</h3>
 
 - Managerial Methods in Decision Making Under Uncertainty (Undergraduate Core), UT Dallas, Spring 2025, Enrollment: 68, Evaluation: 4.81, Response Rate: 37 out of 68.
-- <details>
+  <details>
   <summary>Click to see the official report and anonymous student feedbacks</summary>
   <div class="card card-body">
     <ul>
