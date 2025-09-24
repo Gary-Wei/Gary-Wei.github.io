@@ -197,7 +197,6 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/profiles.md
-  - _pages/cv.md
   - _pages/research.md
   - _pages/teaching.md
 keep_files:
