@@ -39,6 +39,7 @@ Hello! Welcome to my page!
 
 <h2 id="about me" style="margin-top: 2rem;">About Me</h2>
 My name is Jiarui (Gary) Wei, and I am a fifth-year Ph.D. candidate in Operations Management at the The University of Texas at Dallas. I am fortunate to be advised by Professor <a href="https://jindal.utdallas.edu/faculty/metin-cakanyildirim/">Metin Cakanyildirim</a>. I’m on the 2025–2026 academic job market! 
+
 <a href="/assets/pdf/Jiarui_Wei_CV_0925.pdf">Download CV here.</a>
 
 My research focuses on sustainable operations, energy management, and platform operations. Specifically, my work addresses the critical sustainability challenges that arise from technology-driven operations, specifically focusing on the massive energy demands of data centers spurred by the growth of AI, and the complex fulfillment trade-offs on e-commerce platforms. I use analytical modeling, empirical, and machine learning techniques to develop practical solutions that help manage the operational efficiency and environmental impacts of these AI-powered systems, offering guidance for stakeholders ranging from microgrid operators to online platform sellers.
