@@ -51,7 +51,7 @@ Prior to UTD, I worked as a junior research assistant at The Chinese University 
 - <a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4048395">Dismissal of Demand Dependence Disappoints and Deceives: The Case of Microgrid Generation and Storage Investments</a>, with F. F. Mamaghani and M. Cakanyildirim.  *Submitted*
 - The Price of Choice: Causal Effects of Retail Electricity Contracts on Consumer Bills: Double Machine Learning from Individual Consumption, with F. F. Mamaghani and M. Cakanyildirim. *Work in Progress*
 - Fair Pricing in the Age of AI: Designing Electricity Market Mechanisms for Data Center Demand Shocks, with F. F. Mamaghani and M. Cakanyildirim. *Work in Progress*
-- Blessing or Curse? An Investigation of Free-Return Services in E-Commerce, with A. S. Simsek, O. Ozer. *Work in Progress*
+- Who Should Fulfill? The Role of Return Policies in E-Commerce Fulfillment Strategy, with A. S. Simsek, O. Ozer. *Work in Progress*
 
 <h2 id="Teaching" style="margin-top: 2rem;">Teaching</h2>
 <h3 id="Research" style="margin-top: 2rem;">Instructor</h3>
