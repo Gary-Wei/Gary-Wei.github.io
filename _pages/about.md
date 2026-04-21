@@ -35,10 +35,10 @@ latest_posts:
 
 Hello! Welcome to my page! 
 
-[//]: # (I will be on the 2025–2026 academic job market. My research leverages Generative AI and game-theoretic models to enhance managerial decision-making. I pursue two main research streams. The first focuses on probabilistic goods. In this stream, my job market paper examines consumer dynamic responses to the limited-time product sequences, while my Marketing Science paper investigates optimal pricing and probability allocations.)
+[//]: # (My research leverages Generative AI and game-theoretic models to enhance managerial decision-making. I pursue two main research streams. The first focuses on probabilistic goods. In this stream, my job market paper examines consumer dynamic responses to the limited-time product sequences, while my Marketing Science paper investigates optimal pricing and probability allocations.)
 
 <h2 id="about me" style="margin-top: 2rem;">About Me</h2>
-My name is Jiarui (Gary) Wei, and I am a fifth-year Ph.D. candidate in Operations Management at the The University of Texas at Dallas. I am fortunate to be advised by Professor <a href="https://jindal.utdallas.edu/faculty/metin-cakanyildirim/">Metin Cakanyildirim</a>. I’m on the 2025–2026 academic job market! 
+My name is Jiarui (Gary) Wei, and I am a fifth-year Ph.D. candidate in Operations Management at the The University of Texas at Dallas. I am fortunate to be advised by Professor <a href="https://jindal.utdallas.edu/faculty/metin-cakanyildirim/">Metin Cakanyildirim</a>. 
 
 <a href="/assets/pdf/Jiarui_Wei_CV_0925.pdf">Download CV here.</a>
 
