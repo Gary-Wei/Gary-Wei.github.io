@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Gary-Wei.github.io/sitemap.xml
+Sitemap: https://jiarui-wei.com/sitemap.xml
