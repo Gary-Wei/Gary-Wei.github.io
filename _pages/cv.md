@@ -6,10 +6,12 @@ nav: true
 nav_order: 2
 ---
 
+<p><a href="{{ '/assets/pdf/Jiarui_Wei_CV.pdf' | relative_url }}" download>Download my CV (PDF)</a>. If the preview does not load, <a href="{{ '/assets/pdf/Jiarui_Wei_CV.pdf' | relative_url }}">open the PDF directly</a>.</p>
+
 <style>
 .embed-container {
     position: relative;
-    padding-bottom: 129%; /* A4 paper aspect ratio */
+    padding-bottom: 129%; /* Letter paper aspect ratio */
     height: 0;
     overflow: hidden;
     max-width: 100%;
@@ -24,5 +26,5 @@ nav_order: 2
 </style>
 
 <div class="embed-container">
-    <iframe src="/assets/pdf/Jiarui_Wei_CV_0925.pdf"></iframe>
+    <iframe src="{{ '/assets/pdf/Jiarui_Wei_CV.pdf' | relative_url }}" title="Jiarui Wei's curriculum vitae"></iframe>
 </div>
