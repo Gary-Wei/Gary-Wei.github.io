@@ -227,6 +227,10 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
+      path: "travel"
+    values:
+      sitemap: false
+  - scope:
       path: "assets"
     values:
       sitemap: false
